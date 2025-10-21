@@ -1,0 +1,24 @@
+🚇 Metro Station Ticket Booking System
+
+A simple Python GUI application built using Tkinter that simulates a metro ticket booking system.
+Users can book metro tickets between stations, select the number of tickets, and optionally request a cab drop-off service.
+
+🧩 Features
+🎫 Metro Ticket Booking between predefined stations
+🚕 Optional Cab Booking for drop-off after the metro journey
+💬 Confirmation Dialogs for booking verification
+⚙️ User-friendly GUI with dropdown menus and input fields
+
+🖥️ Technologies Used
+Python 3
+Tkinter (for GUI)
+messagebox (for confirmation and alerts)
+            
+📋 How It Works
+Enter your name.
+Select the From and To metro stations.
+Choose the number of tickets.
+Choose whether you need a cab:
+If Yes, enter your drop location.
+If No, proceed without cab details.
+Confirm your booking in the popup dialog.
